@@ -7,3 +7,5 @@
 * http://sivers.org/ff - first to follow (making a movement) 
 * http://urbanhonking.com/ideasfordozens/2012/01/14/machine-pareidolia-hello-little-fella-meets-facetracker/ to http://facesinthecloud.tumblr.com/
 * [.@zenbullets on open source art, "intelligent theft" and the recent history of creative code. http://t.co/6go5bZYklC via @honorharger](https://twitter.com/mtchl/status/308536889869234176)
+* [intelligent theft](http://zenbullets.com/blog/?p=885)
+* [german copyright laws](http://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html)
