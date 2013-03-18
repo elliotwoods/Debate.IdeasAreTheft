@@ -9,3 +9,4 @@
 * [.@zenbullets on open source art, "intelligent theft" and the recent history of creative code. http://t.co/6go5bZYklC via @honorharger](https://twitter.com/mtchl/status/308536889869234176)
 * [intelligent theft](http://zenbullets.com/blog/?p=885)
 * [german copyright laws during industrial revolution](http://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html)
+* [Sampling is dead / harlem shake](http://www.guardian.co.uk/music/2013/mar/13/harlem-shake-internet-killing-sampling?INTCMP=SRCH)
