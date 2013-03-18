@@ -19,6 +19,8 @@ A slide show of provocative images:
 	* Sand + kinect + projection
 	* Face + animal reflection project 
 	* Girl Talk
+	* [Kitten vs Urban Outfitters](http://i.imgur.com/OWSqejL.jpg)
+	* FE flyer design tumblr.
 	* Any music artists famous for plagarising or inventing a style?
 * First movers / low hanging fruit
 	* Memo’s quadrotor show
